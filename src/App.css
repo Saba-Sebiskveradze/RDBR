@@ -1,5 +1,6 @@
 .App {
-  width: min(100%, 1920px);
+  /* width: min(100%, 1920px); */
+  width: 1920px;
   text-align: center;
 }
 

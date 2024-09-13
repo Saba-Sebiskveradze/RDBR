@@ -1,0 +1,54 @@
+.mainFilter{
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    padding-inline: 162px;
+    margin-top: 77px;
+}
+.filter{
+    display: flex;
+    width: 785px;
+    border: 1px solid #DBDBDB;
+    border-radius: 10px;
+    padding: 6px;
+    gap: 24px;
+}
+.filterSection{
+    display: flex;
+    align-items: center;
+    padding: 8px, 14px, 8px, 14px;
+    gap: 4px;
+}
+.filterH1{
+    font-size: 16px;
+    line-height: 19.2px;
+}
+.chevron{
+    width: 14px;
+    height: 14px;
+}
+.add{
+    display: flex;
+    gap: 16px;
+}
+.addh1{
+    font-size: 16px;
+}
+.addlisting{
+    display: flex;
+    align-items: center;
+    padding-inline: 16px;
+    border-radius: 10px;
+    gap: 2px;
+    color: white;
+    background-color: #F93B1D;
+}
+.addagent{
+    display: flex;
+    align-items: center;
+    padding-inline: 16px;
+    border: 1px solid #F93B1D;
+    border-radius: 10px;
+    gap: 2px;
+    color: #F93B1D;
+}
